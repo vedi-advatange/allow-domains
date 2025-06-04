@@ -500,6 +500,7 @@ nftset=/oaistatic.com/4#inet#fw4#vpn_domains
 nftset=/oaiusercontent.com/4#inet#fw4#vpn_domains
 nftset=/ocstore.com/4#inet#fw4#vpn_domains
 nftset=/oculus.com/4#inet#fw4#vpn_domains
+nftset=/scontent.oculuscdn.com/4#inet#fw4#vpn_domains
 nftset=/ohmyswift.ru/4#inet#fw4#vpn_domains
 nftset=/oi.legal/4#inet#fw4#vpn_domains
 nftset=/okx.com/4#inet#fw4#vpn_domains
