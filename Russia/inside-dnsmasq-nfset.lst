@@ -797,6 +797,7 @@ nftset=/viber.com/4#inet#fw4#vpn_domains
 nftset=/vice.com/4#inet#fw4#vpn_domains
 nftset=/vine.co/4#inet#fw4#vpn_domains
 nftset=/vipergirls.to/4#inet#fw4#vpn_domains
+nftset=/virustotal.com/4#inet#fw4#vpn_domains
 nftset=/visualcapitalist.com/4#inet#fw4#vpn_domains
 nftset=/vmware.com/4#inet#fw4#vpn_domains
 nftset=/vndb.org/4#inet#fw4#vpn_domains
